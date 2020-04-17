@@ -6,8 +6,10 @@
 
 /* Utility Styling */
 .header-text{
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: 900;
+    line-height: 5rem;
+    margin: 20px;
 }
 
 .sub-text{
@@ -110,7 +112,7 @@ button{
 }
 
 #summary-section .img-section{
-    /* margin-top: 0px; */
+    margin-top: 300px;
     margin-bottom: 50px;
     display: flex;
     justify-content: center;
