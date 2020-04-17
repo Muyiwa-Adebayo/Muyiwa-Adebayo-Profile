@@ -96,9 +96,9 @@ button{
 
 /* Elements Styling */
 .hero{
-    padding-top: 300px;
+    padding-top: 150px;
     text-align: center;
-    height: 100vh;
+    height: 60vh;
 }
 
 .container{
