@@ -125,6 +125,7 @@ button{
 }
 
 #summary-section{
+    margin-top: 0;
     margin-left: 100px;
     width: 50%;
 }
