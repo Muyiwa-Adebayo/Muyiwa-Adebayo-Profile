@@ -65,6 +65,10 @@
     font-size: 1rem;
 }
 
+.text-center{
+    text-align: center;
+}
+
 body{
     font-family: "PT Sans","Heebo", 'Helvetica Neue', sans-serif;
     background: black;
